@@ -1,0 +1,11 @@
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Core.Midasoft\bin\Debug\net7.0\Core.Midasoft.deps.json
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Core.Midasoft\bin\Debug\net7.0\Core.Midasoft.dll
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Core.Midasoft\bin\Debug\net7.0\Core.Midasoft.pdb
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Core.Midasoft\obj\Debug\net7.0\Core.Midasoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Core.Midasoft\obj\Debug\net7.0\Core.Midasoft.AssemblyInfoInputs.cache
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Core.Midasoft\obj\Debug\net7.0\Core.Midasoft.AssemblyInfo.cs
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Core.Midasoft\obj\Debug\net7.0\Core.Midasoft.csproj.CoreCompileInputs.cache
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Core.Midasoft\obj\Debug\net7.0\Core.Midasoft.dll
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Core.Midasoft\obj\Debug\net7.0\refint\Core.Midasoft.dll
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Core.Midasoft\obj\Debug\net7.0\Core.Midasoft.pdb
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Core.Midasoft\obj\Debug\net7.0\ref\Core.Midasoft.dll

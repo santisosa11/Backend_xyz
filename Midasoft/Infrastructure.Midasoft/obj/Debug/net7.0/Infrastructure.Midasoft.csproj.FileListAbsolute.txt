@@ -1,0 +1,15 @@
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Infrastructure.Midasoft\bin\Debug\net7.0\Infrastructure.Midasoft.deps.json
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Infrastructure.Midasoft\bin\Debug\net7.0\Infrastructure.Midasoft.dll
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Infrastructure.Midasoft\bin\Debug\net7.0\Infrastructure.Midasoft.pdb
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Infrastructure.Midasoft\bin\Debug\net7.0\Core.Midasoft.dll
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Infrastructure.Midasoft\bin\Debug\net7.0\Core.Midasoft.pdb
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Infrastructure.Midasoft\obj\Debug\net7.0\Infrastructure.Midasoft.csproj.AssemblyReference.cache
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Infrastructure.Midasoft\obj\Debug\net7.0\Infrastructure.Midasoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Infrastructure.Midasoft\obj\Debug\net7.0\Infrastructure.Midasoft.AssemblyInfoInputs.cache
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Infrastructure.Midasoft\obj\Debug\net7.0\Infrastructure.Midasoft.AssemblyInfo.cs
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Infrastructure.Midasoft\obj\Debug\net7.0\Infrastructure.Midasoft.csproj.CoreCompileInputs.cache
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Infrastructure.Midasoft\obj\Debug\net7.0\Infrastructure.Midasoft.csproj.CopyComplete
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Infrastructure.Midasoft\obj\Debug\net7.0\Infrastructure.Midasoft.dll
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Infrastructure.Midasoft\obj\Debug\net7.0\refint\Infrastructure.Midasoft.dll
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Infrastructure.Midasoft\obj\Debug\net7.0\Infrastructure.Midasoft.pdb
+C:\Users\santiago.sosa\OneDrive - NEORIS\Documentos\PersonalProjects\MIDASOFT\Backend\Midasoft\Infrastructure.Midasoft\obj\Debug\net7.0\ref\Infrastructure.Midasoft.dll
