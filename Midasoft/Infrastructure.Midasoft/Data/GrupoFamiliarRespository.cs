@@ -36,7 +36,7 @@ namespace Infrastructure.Midasoft.Data
             return new GrupoFamiliar()
             {
                 Usuario = reader["USUARIO"].ToString()?.ToUpper(),
-                Cedula = reader["CEDULA"].ToString()?.ToUpper(),
+                Cedula = (int)reader["CEDULA"],
                 Nombres = reader["NOMBRES"].ToString()?.ToUpper(),
                 Apellidos = reader["APELLIDOS"].ToString()?.ToUpper(),
                 Genero = reader["GENERO"].ToString()?.ToUpper(),

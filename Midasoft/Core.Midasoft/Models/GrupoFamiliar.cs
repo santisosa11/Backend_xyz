@@ -3,7 +3,7 @@
     public class GrupoFamiliar
     {
         public string? Usuario { get; set; }
-        public string? Cedula { get; set; }
+        public int? Cedula { get; set; }
         public string? Nombres { get; set; }
         public string? Apellidos { get; set; }
         public string? Genero { get; set; }

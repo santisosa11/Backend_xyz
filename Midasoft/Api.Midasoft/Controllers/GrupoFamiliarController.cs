@@ -1,10 +1,12 @@
 ﻿using Core.Midasoft.Models;
 using Infrastructure.Midasoft.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Api.Midasoft.Controllers
 {
     [Route("api/[controller]")]
+    [Authorize]
     [ApiController]
     public class GrupoFamiliarController : ControllerBase
     {
